@@ -1,0 +1,2 @@
+# superMemoPolaco
+androidApp
