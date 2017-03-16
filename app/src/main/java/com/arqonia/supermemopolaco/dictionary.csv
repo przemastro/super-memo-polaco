@@ -1,0 +1,1686 @@
+1,la gente,ludzie,1,0
+2,el cuerpo,ciało,1,0
+3,el cuello,szyja,1,0
+4,el pecho,pierś,2,0
+5,el abdomen,brzuch,2,0
+6,la pierna,noga,1,0
+7,la cabeza,głowa,1,0
+8,el brazo,ramię,2,0
+9,el codo,łokieć,2,0
+10,el antebrazo,przedramię,2,0
+11,el muslo,udo,2,0
+12,la rodilla,kostka,3,0
+13,el hombro,bark,3,0
+14,la mano,ręka,1,0
+15,la nalga,pośladek,2,0
+16,la espalda,plecy,1,0
+17,el pulgar,kciuk,1,0
+18,el talón,pięta,2,0
+19,la cara,twarz,1,0
+20,el pelo,włosy,1,0
+21,la piel,skóra,2,0
+22,la frente,czoło,1,0
+23,la ceja,brew,2,0
+24,el ojo,oko,1,0
+25,la nariz,nos,1,0
+26,la oreja,ucho,1,0
+27,la mejilla,policzek,3,0
+28,la boca,usta,1,0
+29,la arruga,zmarszczka,3,0
+30,el indice,palec wskazujący,2,0
+31,el puño,pięść,2,0
+32,el pie,stopa,1,0
+33,el músculo,mięsień,1,0
+34,el biceps,biceps,2,0
+35,el abdominal,mięsień brzucha,2,0
+36,el triceps,triceps,3,0
+37,el esqueleto,szkielet,3,0
+38,la costilla,żebro,3,0
+39,el cráneo,czaszka,3,0
+40,la espina dorsal,kręgosłup,2,0
+41,el órgano interno,narząd wewnętrzny,2,0
+42,el cerebro,mózg,1,0
+43,el higado,wątroba,2,0
+44,el corazón,serce,1,0
+45,el estómago,żołądek,1,0
+46,la lengua,język,1,0
+47,la garganta,gardło,2,0
+48,la familia,rodzina,1,0
+49,la abuela,babcia,2,0
+50,el abuelo,dziadek,2,0
+51,el tío,wujek,2,0
+52,la tía,ciotka,2,0
+53,el padre,ojciec,1,0
+54,la madre,matka,1,0
+55,el primo,kuzyn,3,0
+56,el hermano,brat,1,0
+57,la hermana,siostra,1,0
+58,la mujer,kobieta,1,0
+59,el hijo,syn,1,0
+60,la hija,córka,1,0
+61,el nieto,wnuk,2,0
+62,la nieta,wnuczka,2,0
+63,el marido,mąż,1,0
+64,el niño,dziecko,1,0
+65,la genración,pokolenie,2,0
+66,los padres,rodzice,2,0
+67,los abueleros,dziadkowie,3,0
+68,los parientes,krewni,3,0
+69,la madrasta,macocha,3,0
+70,los gemelos,bliźnięta,4,0
+71,la sugra,teściowa,3,0
+72,el suegro,teść,3,0
+73,el bebé,niemowlę,2,0
+74,el cuñado,szwagier,2,0
+75,el chico,chłopiec,1,0
+76,la chica,dziewczynka,1,0
+77,la señorita,panna,1,0
+78,la señora,pani,1,0
+79,el señor,pan,1,0
+80,la adolescente,nastolatka,3,0
+81,el adulto,dorosły,3,0
+82,el hombre,mężczyzna,1,0
+83,el relación,związek,2,0
+84,el jefe,szef,2,0
+85,la secretaria personal,asystentka,3,0
+86,el empleado,pracownik,2,0
+87,la empresaria,pracodawca,2,0
+88,la oficina,biuro,2,0
+89,el amigo,przyjaciel,1,0
+90,la prometida,narzeczona,3,0
+91,el prometido,narzeczony,3,0
+92,la emoción,emocja,1,0
+93,contento,szczęśliwy,1,0
+94,triste,smutny,2,0
+95,entusiasmado,podekscytowany,2,0
+96,abburido,znudzony,2,0
+97,sorprendido,zaskoczony,2,0
+98,asustado,przestraszony,2,0
+99,enfadado,zły,1,0
+100,confuso,zdezorientowany,2,0
+101,preocupado,zmartwiony,2,0
+102,nervioso,nerwowy,1,0
+103,orgulloso,dumny,2,0
+104,seguro de sí mismo,pewny siebie,3,0
+105,avergonzado,zakłopotany,3,0
+106,tímido,nieśmiały,2,0
+107,llorar,płakać,1,0
+108,desmayarse,zemdleć,2,0
+109,rreír,śmiać się,1,0
+110,horrorizado,wstrząśnięty,2,0
+111,gritar,krzyczeć,3,0
+112,bostezar,ziewać,4,0
+113,nacer,urodzić się,3,0
+114,hacer amigos,zaprzyjaźnić się,2,0
+115,conseguir un trabajo,dostać pracę,4,0
+116,enamorarse,zakochać się,3,0
+117,la boda,ślub,1,0
+118,el divorcio,rozwód,1,0
+119,el funeral,pogrzeb,1,0
+120,casarse,wziąć ślub,2,0
+121,el bautizo,chrzest,3,0
+122,el aniversrio,rocznica,2,0
+123,emigrar,wyemigrować,2,0
+124,morir,umrzeć,2,0
+125,hacer testamento,spisać testament,2,0
+126,fiesta,święto,1,0
+127,el cumpleaños,urodziny,1,0
+128,el regalo,prezent,1,0
+129,la navidad,boże narodzenie,1,0
+130,el año nuevo,nowy rok,1,0
+131,el carnaval,karnawał,1,0
+132,la semana santa,wielki tydzień,2,0
+133,el aspecto,wyglad,2,0
+134,las manoplas,rękawiczki jednopalczaste,5,0
+135,el pijama,piżama,3,0
+136,la bufanda,szalik,2,0
+137,el logotipo,logo,4,0
+138,las zapatillas de deporte,buty sportowe,5,0
+139,el chándal,dres,5,0
+140,las zapatillas,kapcie,4,0
+141,el caballero,dżentelmen,3,0
+142,la corbata,krawat,3,0
+143,la chaqueta,marynarka,3,0
+144,el bolsillo,kieszeń,4,0
+145,los pantalones,spodnie,2,0
+146,el traje de chaqueta,garnitur,3,0
+147,el jersey,sweter,2,0
+148,largo,długi,1,0
+149,corto,krótki,1,0
+150,la camisa,koszula,1,0
+151,los vaqueros,dżinsy,1,0
+152,la camiseta de tirantes,podkoszulek,5,0
+153,los calcetines,skarpetki,3,0
+154,la falda,spódnica,2,0
+155,el vestido,sukienka,2,0
+156,la blusa,bluzka,2,0
+157,el sujetador,biustonosz,5,0
+158,la gorra,czapka,3,0
+159,el sombrerro,kapelusz,2,0
+160,el cinturón,pasek,2,0
+161,el paraguas,parasol,2,0
+162,los guantes,rękawiczki,4,0
+163,el reloj,zegarek,2,0
+164,la cartera,portfel,2,0
+165,el monedero,portmonetka,3,0
+166,la mochila,plecak,2,0
+167,los zapatos,buty,1,0
+168,la sandalia,sandał,3,0
+169,el pelo,włosy,2,0
+170,la peluquera,fryzjer,3,0
+171,las tijeras,nożyczki,3,0
+172,cortar,ciąć,3,0
+173,la cliente,klientka,2,0
+174,el gel,żel,5,0
+175,rizado,kręcone,3,0
+176,lacio,proste,3,0
+177,rubio,blond,3,0
+178,castaño,ciemny brąz,3,0
+179,pelirrojo,rudy,3,0
+180,negro,czarny,1,0
+181,gris,siwy,3,0
+182,blanco,biały,1,0
+183,el barbero,golarz,4,0
+184,la caspa,łupież,6,0
+185,graso,tłusty,4,0
+186,normal,normalny,2,0
+187,seco,suchy,2,0
+188,el maquillaje,makijaż,4,0
+189,moreno,ciemny,2,0
+190,claro,jasny,2,0
+191,el tatuaje,tatuaż,4,0
+192,la salud,zdrowie,2,0
+193,la enfermedad,choroba,3,0
+194,la friebre,gorączka,3,0
+195,el dolor de cabeza,ból głowy,4,0
+196,la tos,kaszel,4,0
+197,el estornudo,kichnięcie,4,0
+198,el resfriado,przeziębienie,4,0
+199,la gripe,grypa,4,0
+200,la asma,astma,4,0
+201,la náusea,mdłości,4,0
+202,la alergia,alergia,4,0
+203,la diabetes,cukrzyca,4,0
+204,el virus,wirus,3,0
+205,el dolor de estómago,ból żołądka,4,0
+206,la epilepsia,padaczka,5,0
+207,el médico,lekarz,2,0
+208,la receta,recepta,3,0
+209,la paciente,pacjentka,4,0
+210,la efermera,pielęgniarka,4,0
+211,la báscula,waga,4,0
+212,la cita,wizyta,5,0
+213,la sala de espera,poczekalnia,6,0
+214,la consulta,gabinet,6,0
+215,la inoculación,szczepienie,6,0
+216,el termómetro,termometr,4,0
+217,la fractura,złamanie,6,0
+218,la urgenica,nagły wypadek,6,0
+219,la herida,rana,4,0
+220,la hermorragia,krwotok,5,0
+221,la conmoción,wstrząs mózgu,5,0
+222,el aacidente,wypadek,5,0
+223,la tirita,plaster,5,0
+224,la venda,bandaż,6,0
+225,la reanimación,reanimacja,5,0
+226,el shock,wstrząs,5,0
+227,inconsciente,nieprzytomny,5,0
+228,el pulso,tętno,5,0
+229,la respiración,oddychanie,4,0
+230,estéril,sterylny,5,0
+231,el hospital,szpital,1,0
+232,la anestesista,anestezjolog,5,0
+233,la inyección,zastrzyk,5,0
+234,la radiografía,rendgen,5,0
+235,la ecografía,USG,6,0
+236,la operación,operacja,4,0
+237,ingresado,przyjęty,6,0
+238,dado de alta,wypisany,6,0
+239,la clínica,klinika,6,0
+240,la cardiologia,kardiologia,6,0
+241,la ortopedia,ortopedia,6,0
+242,la ginecología,ginekologia,6,0
+243,la fisioterapia,fizjoterapia,6,0
+244,la dermatología,dermatologia,6,0
+245,la pediatría,pediatria,6,0
+246,la radiología,radiologia,6,0
+247,la cirugía,chirurgia,6,0
+248,la maternidad,oddział położniczy,6,0
+249,la psiquiatría,psychiatria,6,0
+250,la oftalmología,okulistyka,5,0
+251,la neurología,neurologia,5,0
+252,la oncología,onkologia,5,0
+253,la urología,urologia,5,0
+254,el volante,skierowanie,6,0
+255,el análysis,badanie,4,0
+256,el resultado,wynik,2,0
+257,el dentista,dentysta,2,0
+258,el diente,ząb,4,0
+259,la revisión,przegląd,4,0
+260,el nervio,nerw,2,0
+261,la corona,korona,2,0
+262,la extracción,usunięcie,5,0
+263,el cepillo de dientes,szczoteczka,4,0
+264,el examen de ojos,badanie wzroku,4,0
+265,el óptico,optyk,3,0
+266,las gafas,okulary,2,0
+267,las gafas de sol,okulary przeciwsłoneczne,2,0
+268,el astigmatismo,astygmatyzm,6,0
+269,la lágrima,łza,5,0
+270,la vista,wzrok,4,0
+271,el embrazo,ciąża,6,0
+272,el nacimiento,narodziny,5,0
+273,el parto,poród,5,0
+274,el masaje,masaż,4,0
+275,el yoga,joga,4,0
+276,la meditación,medytacja,6,0
+277,el terapeuta,terapeuta,4,0
+278,la psicoterapia,psychoterapia,6,0
+279,la casa,dom,1,0
+280,el tejado,dach,3,0
+281,la chimenea,komin,2,0
+282,la ventana,okno,1,0
+283,el garaje,garaż,1,0
+284,el sótano,piwnica,4,0
+285,el patio,podwórze,2,0
+286,el piso,podłoga,2,0
+287,el propietario,właściciel,3,0
+288,el buzón,skrzynka na listy,4,0
+289,el alquiler,czynsz,4,0
+290,la habitación,pokój,2,0
+291,la puerta,drzwi,1,0
+292,el suelo,podłoga,3,0
+293,el recibidor,przedpokój,3,0
+294,la escalera,schody,2,0
+295,el edificio,blok mieszkalny,2,0
+296,el timbre,dzwonek,2,0
+297,la cadena,łańcuch,4,0
+298,la calle,klucz,2,0
+299,el ascensor,winda,1,0
+300,el radiador,kaloryfer,1,0
+301,la estufa,grzejnik,2,0
+302,el ventilador,wentylator,2,0
+303,la bombilla,żarówka,1,0
+304,el echufe macho,wtyczka,4,0
+305,los cables,przewody,3,0
+306,la corriente alterna,prąd zmienny,3,0
+307,la corriente continua,prąd stały,3,0
+308,el generador,generator,3,0
+309,el voltaje,napięcie,4,0
+310,la corriente eléctrica,prąd elektryczny,4,0
+311,el echufe hembra,gniazdko,4,0
+312,el interruptor,włącznik,4,0
+313,el grifo,kran,4,0
+314,el tanque,zbiornik,4,0
+315,la cisterna,cysterna,4,0
+316,el pedal,pedał,3,0
+317,el cubo de basura,kosz na śmieci,3,0
+318,el cuarto de estar,salon,3,0
+319,la lámpara,lampa,2,0
+320,el cuadro,obraz,2,0
+321,el jarrón,wazon,4,0
+322,la mesa de café,stolik kawowy,3,0
+323,el sillón,fotel,2,0
+324,la moqueta,dywan,3,0
+325,la cortina,zasłona,3,0
+326,el visillo,firanka,3,0
+327,el despacho,gabinet,3,0
+328,el comedor,jadalnia,1,0
+329,la vela,świeca,3,0
+330,la mesa,stół,1,0
+331,la servilleta,serweta,1,0
+332,la silla,krzesło,1,0
+333,el espejo,lustro,1,0
+334,el desayuno,śniadanie,1,0
+335,la cena,kolacja,1,0
+336,comer,jeść,1,0
+337,lleno,najedzony,3,0
+338,el invitado,gość,4,0
+339,el anfitrión,gospodarz,4,0
+340,la anfitriona,gospodyni,4,0
+341,hambriento,głodny,5,0
+342,la comida,posiłek,1,0
+343,la ración,porcja,2,0
+344,servir,podawać,2,0
+345,la taza,kubek,2,0
+346,el plato,talerz,1,0
+347,la tetera,czajnik herbaciany,4,0
+348,la jarra,dzbanek,4,0
+349,el vaso,szklanka,2,0
+350,el tenedor,widelec,1,0
+351,la cuchara,łyżka,1,0
+352,el cuchillo,nóż,1,0
+353,la copa,kieliszek,1,0
+354,los cubiertos,sztućce,2,0
+355,la cocina,kuchnia,1,0
+356,la isla,wyspa,1,0
+357,el cajón,szuflada,4,0
+358,el microondas,mikrofalówka,3,0
+359,el hervidor,czanik,2,0
+360,el frigorifico,lodówka,1,0
+361,congelar,zamrozić,2,0
+362,cocinar,gotowanie,1,0
+363,pelar,obierać,4,0
+364,cortar,kroić,3,0
+365,remover,mieszać,2,0
+366,hervir,gotować,2,0
+367,freir,smażyć,2,0
+368,cocer,gotować,2,0
+369,asar,piec,5,0
+370,la sartén,patelnia,4,0
+371,el dormitorio,sypialnia,1,0
+372,la almohada,poduszka,2,0
+373,la cómoda,komoda,2,0
+374,la cama,łóżko,1,0
+375,la sábana,prześcieradło,2,0
+376,la manta,koc,2,0
+377,levantarse,wstać,5,0
+378,dormirse,iść spać,5,0
+379,hacer la cama,zrobić łóżko,5,0
+380,individual,pojedynczy,2,0
+381,el baño,łazienka,1,0
+382,la bañera,wanna,2,0
+383,el lavabo,umywalka,3,0
+384,el armario de las medicinas,apteczka,5,0
+385,la cortina de ducha,zasłona prysznicoa,6,0
+386,la pasta de dientes,pasta do zębów,3,0
+387,el cepillo de dientes,szczoteczka do zębów,3,0
+388,el jabón,mydło,2,0
+389,las toallas,ręczniki,3,0
+390,el orinal,nocnik,5,0
+391,la cuna,łóżeczko dziecięce,6,0
+392,secar,suszyć,5,0
+393,la lavadora,pralka,2,0
+394,la plancha,żelazko,4,0
+395,la ropa,ubranie,2,0
+396,planchar,prasować,4,0
+397,centrifugar,wirować,6,0
+398,el cubo,wiaderko,5,0
+399,limpiar,czyścić,2,0
+400,fregar,myć,4,0
+401,barrer,zamiatać,6,0
+402,el martillo,młotek,3,0
+403,la batería,akumulator,2,0
+404,el taller,warsztat,5,0
+405,la madera de pino,drewno sosnowe,6,0
+406,pintar,malować,4,0
+407,mate,matowy,6,0
+408,las botas de goma,kalosze,6,0
+409,el jardín,ogród,3,0
+410,el cortacésped,kosiarka,6,0
+411,cortar el césped,kosić,6,0
+412,el césped,trawnik,5,0
+413,el jardinero,ogrodnik,4,0
+414,cavar,kopać,6,0
+415,regar,podleać,5,0
+416,cultivar,uprawiać,6,0
+417,coger,zbierać,6,0
+418,los servicios,usługi,3,0
+419,la ambulancia,karetka,3,0
+420,la estación de policía, posterunek policji,3,0
+421,el uniforme,mundur,3,0
+422,las luces,światła,4,0
+423,el arresto,areszt,5,0
+424,la policía,policja,2,0
+425,el robo,kradzież,3,0
+426,el cargo,oskarżenie,5,0
+427,la denuncia,skarga,6,0
+428,el crimen,przestępstwo,4,0
+429,la huella dactilar,odcisk palca,6,0
+430,el comisario,inspektor,6,0
+431,el investigación,śledztwo,6,0
+432,el sospechoso,podejrzany,6,0
+433,el bombero,strażak,5,0
+434,el casco,kask,4,0
+435,el extintor,gaśnica,4,0
+436,el detector de humo,czujnik dymu,5,0
+437,el banco,bank,1,0
+438,la ventanilla,okienko,1,0
+439,el cajero,kasjer,2,0
+440,el billete,bilet,1,0
+441,la tarjeta de crédito,karta kredytowa,1,0
+442,el dinero,pieniądze,1,0
+443,el cajero automático,bankomat,4,0
+444,los ahorros,oszczędności,4,0
+445,el credito hipotecario,kredyt hipoteczny,6,0
+446,ingresar,wpłacać,6,0
+447,el pin,pin,6,0
+448,la cambio,kantor,2,0
+449,las finanzas,finanse,2,0
+450,las acciones,akcje,4,0
+451,el cliente,klient,4,0
+452,correo,poczta,1,0
+453,el sello,znaczek,2,0
+454,el cartero,listonosz,2,0
+455,el sobre,koperta,3,0
+456,la carta,list,3,0
+457,la firm,podpis,2,0
+458,el paquete,paczka,2,0
+459,el mensajero,kurier,6,0
+460,comunicando,zajęty,4,0
+461,contestar,odebrać telefon,4,0
+462,apagado,rozłączony,6,0
+463,el hotel,hotel,1,0
+464,la recepcionista,recepcjonistka,1,0
+465,el huésped,gość,5,0
+466,el botones,bagażowy,5,0
+467,el servicio de limpieza,serwis sprzątający,5,0
+468,el gimnasio,siłownia,4,0
+469,la piscina,basen,3,0
+470,el restaurante,restauracja,2,0
+471,las compras,zakupy,4,0
+472,el centro comercial,centrum handlowe,3,0
+473,la planta,piętro,3,0
+474,la tienda,sklep,1,0
+475,la planta baja,parter,2,0
+476,la escalera mecánica, ruchome schody,3,0
+477,la sección infantil,dział dziecięcy,6,0
+478,el dependiente,sprzedawca,2,0
+479,los productos de belleza,kosmetyki,6,0
+480,la lancería,bielizna,6,0
+481,la perfumería,perfumeria,5,0
+482,el supermercado,suprmarket,2,0
+483,el pacillo,przejście,2,0
+484,el carro,wóz,2,0
+485,la pandería,pieczywo,4,0
+486,los cereales,płatki śniadaniowe,5,0
+487,la verdura,warzywa,2,0
+488,la fruta,owoce,2,0
+489,la carne,mięso,2,0
+490,las bebidas,napoje,4,0
+491,la farmacia,apteka,2,0
+492,los desodorantes,dezodoranty,4,0
+493,el farmacéutico,aptekarz,4,0
+494,la crema protectora, krem z filtrem,3,0
+495,el cápsula,kapsuła,4,0
+496,la píldora,tabletka,4,0
+497,la crema,krem,4,0
+498,el hierro,żelazo,5,0
+499,el calcio,wapń,5,0
+500,el magnesio,magnez,6,0
+501,la insulina,insulina,6,0
+502,la fecha de caducidad,data ważności,5,0
+503,la diarrea,biegunka,5,0
+504,el medicamento,lek,5,0
+505,la floristería,kwiaciarnia,5,0
+506,la rosa,róża,2,0
+507,el tulipán,tulipan,2,0
+508,los cigarillos,papierosy,4,0
+509,la papelera,kosz na śmieci,4,0
+510,el helado,lody,2,0
+511,la revista czasopismo,3,0
+512,el periódico,gazeta,3,0
+513,el machero,zapalniczka,5,0
+514,el puro,cygaro,5,0
+515,la pastelería,cukiernia,3,0
+516,el chicle,guma do żucia,5,0
+517,la zapatería,obuwniczy,2,0
+518,la agencia de viajes,biuro podróży,2,0
+519,la peluquería,zakład fryzjerski,3,0
+520,el mercado,rynek,2,0
+521,la lavendería,pralnia,2,0
+522,los alimentos,żywność,3,0
+523,el peso,waga,3,0
+524,el cordo,wieprzowina,5,0
+525,la vaca,wołowina,3,0
+526,el jamón,szynka,3,0
+527,la carne picada,mięso mielone,5,0
+528,las aves,drób,5,0
+529,la carne magra,chude mięso,5,0
+530,el pescado,ryba,5,0
+531,el hielo,lód,5,0
+532,congelado,zamrożony,5,0
+533,fresco,świeży,4,0
+534,la cola,ogon,4,0
+535,la col,kapusta,6,0
+536,el pimiento,papryka,3,0
+537,el pepino,ogórek,5,0
+538,el tomate,pomidor,3,0
+539,la patata,ziemniak,3,0
+540,la remolacha,burak,5,0
+541,la zanahoria,marchew,5,0
+542,la cebolla,cebula,3,0
+543,crudo,surowy,4,0
+544,picante,ostry,3,0
+545,dulce,słodki,3,0
+546,amargo,gorzki,4,0
+547,el ajo,czosnek,5,0
+548,la naranja,pomarańcza,3,0
+549,el melocotón,brzoskwinia,4,0
+550,la nectarina,nektrynka,5,0
+551,el pomelo,grejpfrut,5,0
+552,la cereza,czereśnia,5,0
+553,la lima,limonka,3,0
+554,el limón,cytryna,3,0
+555,la manzana,jablko,3,0
+556,la fresa,truskawka,4,0
+557,la sandía,arbuz,5,0
+558,la arándano,jagoda,5,0
+559,la piña,ananas,6,0
+560,el plátano,banan,3,0
+561,el piñón,orzeszek,5,0
+562,el coco,kokos,5,0
+563,duro,twardy,3,0
+564,blando,miękki,3,0
+565,salado,słony,3,0
+566,el arroz,ryż,1,0
+567,la vainilla,wanilia,3,0
+568,el pimentón,papryka,2,0
+569,las hierbas,zioła,5,0
+570,las especias,przyprawy,5,0
+571,el aceite de oliva,oliwa z oliwek,6,0
+572,el tarro,słoik,6,0
+573,la miel,miód,6,0
+574,la salsa,sos,3,0
+575,la mostaza,musztarda,3,0
+576,la mayonesa,majonez,3,0
+577,la mantequilla,masło,3,0
+578,la mantequilla de cacahuetes,masło orzechowe,6,0
+579,el queso,ser,5,0
+580,la leche,mleko,3,0
+581,la margarina,margaryna,4,0
+582,la nata,śmietana,3,0
+583,el yogurt,jogurt,3,0
+584,los huevos,jaja,2,0
+585,sin grasa,beztłuszczowy,6,0
+586,la harina,mąka,5,0
+587,hornear,piec,6,0
+588,el pan,chleb,2,0
+589,la tarta,tort,5,0
+590,el agua,woda,1,0
+591,el té,herbata,1,0
+592,el café,kawa,1,0
+593,el zumo,sok,1,0
+594,la cerveza,piwo,1,0
+595,el vino,wino,1,0
+596,el vino tinto,wino czerwone,2,0
+597,el champán,szampan,5,0
+598,la café,kawiarnia,1,0
+599,la espuma,piana,5,0
+600,la ensalada,sałatka,6,0
+601,el bar,bar,3,0
+602,el cubito de hielo,kostka lodu,6,0
+603,el cóctel,koktajl,6,0
+604,un chupito,shot,6,0
+605,las patatas fritas,frytki,2,0
+606,las aceitunas,oliwki,4,0
+607,el camarero,kelner,2,0
+608,la botella,butelka,2,0
+609,el chef,szef kuchni,2,0
+610,el plato principal,danie główne,5,0
+611,pagar,płacić,5,0
+612,la sopa,zupa,5,0
+613,los aperitivos,przystaki,6,0
+614,los cacahuetes,orzeszki ziemne,6,0
+615,el postre,deser,6,0
+616,la pizza,pizza,4,0
+617,la entrega a domicilio,dostawa do domu,6,0
+618,la hamburguesa,hamburger,4,0
+619,para comer en el local,na miejscu,6,0
+620,el menú,menu,4,0
+621,para llevar,na wynos,4,0
+622,el pollo,kurczak,4,0
+623,el bocadillo,kanapka,3,0
+624,la salchicha,kiełbaska,4,0
+625,el huevo frito,jajo smażone,6,0
+626,el bacón,bekon,6,0
+627,las crepes,naleśniki,6,0
+628,los gofres,gofry,6,0
+629,la comida principal,obiad,5,0
+630,el guiso,gulasz,6,0
+631,la empanada,pieróg,5,0
+632,el pincho,szaszłyk,6,0
+633,las albóndigas,klopsiki,6,0
+634,la tortilla,omlet,6,0
+635,la pasta,makaron,4,0
+636,el estudio,nauka,4,0
+637,el colegio,szkoła,2,0
+638,la pizarra,tablica,3,0
+639,el aula,klasa,3,0
+640,leer,czytac,3,0
+641,escribir,pisać,3,0
+642,dibujar,rysować,3,0
+643,aprender,uczyć się,3,0
+644,discutir,dyskutować,3,0
+645,el alumno,ławka,4,0
+646,el arte,sztuka,4,0
+647,la biología,biologia,4,0
+648,la guímica,chemia,4,0
+649,la geografía,geografia,4,0
+650,la historia,historia,4,0
+651,los idiomas,jęzki,4,0
+652,la literatura,literatura,4,0
+653,las matemáticas,matematyka,4,0
+654,la música,muzyka,3,0
+655,las ciencias,przedmioty ścisłe,4,0
+656,la fisica,fizyka,4,0
+657,el proyector,rzutnik,5,0
+658,el cuaderno,zeszyt,4,0
+659,el lápiz,ołówek,3,0
+660,la pregunta,pytanie,3,0
+661,la goma,guma,3,0
+662,la respuesta,odpowiedź,3,0
+663,el bolígrafo,długopis,3,0
+664,el diccionario,słownik,3,0
+665,el examen,egzamin,3,0
+666,el director,dyrektor szkoły,3,0
+667,la clase,lekcja,3,0
+668,el laboratorio,laboratorium,4,0
+669,el experimento,doświadczenie,4,0
+670,el microscopio,mikroskop,4,0
+671,el ocular,okular,2,0
+672,las gafas protectoras,okulary ochronne,2,0
+673,el imán,magnes,6,0
+674,el campus,kampus,6,0
+675,el aparcamiento,parking,2,0
+676,el colegio mayor,akademik,6,0
+677,la biblioteca,biblioteka,3,0
+678,el estudiante,student,3,0
+679,la graduada,absolwent,5,0
+680,el diploma,dyplom,4,0
+681,el doctorado,doktorat,4,0
+682,el máster,magister,4,0
+683,el trabajo,praca,1,0
+684,la oficina,biuro,1,0
+685,el monitor,monitor,4,0
+686,el ordenador,komputer,3,0
+687,la impresora,drukarka,3,0
+688,fotocopiar,kopiować,4,0
+689,ampliar,powiększać,4,0
+690,imprimir,drukować,4,0
+691,reducir,zmniejszać,4,0
+692,asistir,być obecnym,4,0
+693,la presentación,prezentacja,3,0
+694,los apuntes,notatki,5,0
+695,la empresa,firma,3,0
+696,el sueldo,pensja,4,0
+697,el teclado,klawiatura,4,0
+698,la memoria,pamięć,2,0
+699,el altavoz,głośnik,4,0
+700,el disco duro,dysk twardy,4,0
+701,el sistem,system,4,0
+702,el software,oprogramowanie,3,0
+703,el servidor,serwer,4,0
+704,la red,sieć,3,0
+705,el programa,program,2,0
+706,la applicación,aplikacja,3,0
+707,la barra del menú,pasek menu,6,0
+708,la barra de acceso,pasek narzędzi,6,0
+709,el fondo,tapeta,6,0
+710,el icono,ikona,6,0
+711,el fichero,plik,6,0
+712,la carpeta,katalog,6,0
+713,la papelera,kosz,5,0
+714,el sitio web,strona internetowa,5,0
+715,el navegador,przeglądarka,5,0
+716,conectar,łączyć,5,0
+717,bajar,pobierać,5,0
+718,instalar,instalować,5,0
+719,recibir,odbierać,5,0
+720,guardar,zapisać,5,0
+721,buscar,szukać,4,0
+722,enviar,wysyłać,4,0
+723,el estudio de televisión,studio telewizyjne,4,0
+724,la cámara,kamera,5,0
+725,el presentador,prezenter,5,0
+726,emitir,emitować,5,0
+727,el canal,kanał,4,0
+728,el documental,program dokumentalny,6,0
+729,el concurso,konkurs,6,0
+730,en directo,na żywo,5,0
+731,las noticias,wiadomości,6,0
+732,la prensa,prasa,6,0
+733,la telenovela,telenowela,6,0
+734,los actores,aktorzy,6,0
+735,el reporter,reporter,6,0
+736,el entrevistador,dziennkarz,6,0
+737,la radio,radio,5,0
+738,el micrófono,mikrofon,5,0
+739,la emisión,program,6,0
+740,la frecuencia,częstotliwość,6,0
+741,el derecho,prawo,4,0
+742,el abogado,prawnik,4,0
+743,el juez,sędzia,4,0
+744,la defensa,obrona,5,0
+745,el ocusado,oskarżony,5,0
+746,la apelación,apelacja,5,0
+747,absuelto,uniewinniony,5,0
+748,el juicio,rozprawa sądowa,5,0
+749,el cargo,oskarżenie,5,0
+750,el prueba,dowód,6,0
+751,culpable,winny,6,0
+752,inocente,niewinny,6,0
+753,el sospechoso,podejrzany,6,0
+754,la celda,cela,5,0
+755,la declaración,zeznanie,5,0
+756,la cárcel,więzienie,5,0
+757,el granjero,rolnik,6,0
+758,el granero,stodoła,6,0
+759,la cerca,ogrodzenie,6,0
+760,el campo,pole,5,0
+761,el tractor,traktor,6,0
+762,el maíz,kukurydza,4,0
+763,el algodón,bawełna,4,0
+764,la gallina,kura,5,0
+765,el gallo,kogut,5,0
+766,el pavo,indyk,5,0
+767,el cerdo,świnia,5,0
+768,la oveja,owca,5,0
+769,el toro,byk,4,0
+770,el pato,kaczka,4,0
+771,la burro,osiol,5,0
+772,el caballo,koń,3,0
+773,el establo,stajnia,5,0
+774,la construcción,budowa,3,0
+775,la pared,ściana,4,0
+776,el ladrillo,cegła,5,0
+777,la madera,drewno,5,0
+778,la teja,dachówka,5,0
+779,la maquinaria,maszyna,5,0
+780,el esfalto,asfalt,5,0
+781,la profesión,zawód,5,0
+782,el carpintero,stolarz,6,0
+783,el electricista,elektryk,6,0
+784,el fontanero,hydraulik,6,0
+785,el agente inmobiliario,agent nieruchomości,6,0
+786,la veterinaria,weterynarz,6,0
+787,el soldado,żołnierz,4,0
+788,el marino,marynarz,4,0
+789,el pescador,rybak,5,0
+790,el contable,księgowy,5,0
+791,el arquitecto,architekt,5,0
+792,el profesor,nauczyciel,4,0
+793,el bibliotecario,bibliotekarz,4,0
+794,el cientifico,naukowiec,4,0
+795,el taxista,taksówkarz,4,0
+796,el piloto,pilot,4,0
+797,la azafata,stewardesa,5,0
+798,el conductor de autobús,kierowca autobusu,4,0
+799,el músico,muzyk,4,0
+800,la cantante,piosenkarka,4,0
+801,la actriz,aktorka,4,0
+802,la camarera,kelnerka,4,0
+803,el barman,barman,4,0
+804,el deportista,sportowiec,4,0
+805,el escultor,rzeźbiarz,6,0
+806,el pintor,malarz,6,0
+807,la periodista,dziennikarka,5,0
+808,el fotógrafo,fotograf,4,0
+809,la redactora,redaktorka,4,0
+810,el diseñador,projektant,4,0
+811,el sastre,krawiec,5,0
+812,adelante,naprzód,4,0
+813,acerca de,o czymś,4,0
+814,la contraseña,hasło,4,0
+815,el arroyo,strumień,5,0
+816,la fecha,data,2,0
+817,el cambio,zmiana,2,0
+818,a la derecha,w prawo,2,0
+819,a la izquierdo,w lewo,2,0
+820,el desarollo,rozwój,2,0
+821,demasiado,zbyt,4,0
+822,cualquier,dowolny,2,0
+823,el lobo,wilk,6,0
+824,tuyo,twój,2,0
+825,la madrugada,wczesny poranek,4,0
+826,el lugar,miejsce,4,0
+827,el valle,dolina,4,0
+828,situado,usytuowany,4,0
+829,el extremo,koniec,4,0
+830,nor-oriental,północny wschód,5,0
+831,el recorrido,podróż,5,0
+832,ver,zobaczyć,2,0
+833,la droga,lek,1,0
+834,el origen,pochodzenie,4,0
+835,falla,usterka,5,0
+836,la corteza,skorupa,5,0
+837,terrestre,ziemska,5,0
+838,el erosión,erozja,5,0
+839,llegar,dostać,4,0
+840,ambas,zarówno,5,0
+841,la ladera,stok,5,0
+842,hasta,w górę,3,0
+843,el abrigo,płaszcz,4,0
+844,el bolso,torebka,4,0
+845,la maleta,walizka,4,0
+846,guapa,ładna,4,0
+847,delante,przed,3,0
+848,sobre,na,3,0
+849,el cuaderno,notatnik,4,0
+850,debajo,poniżej,3,0
+851,dentro,wewnątrz,3,0
+852,detras,za,3,0
+853,el armario,szafka,4,0
+854,fuera,na zewnątrz,3,0
+855,encima,powyżej,3,0
+856,usos,użycie,2,0
+857,el cementerio,cmentarz,,0
+858,la gasolinera,stacja benzynowa5,0
+859,limpio,czysty,4,0
+860,cudrada,kwadratowa,4,0
+861,rico,bogaty,4,0
+862,ocupada,zajęta,4,0
+863,verdadero,prawdziwy,4,0
+864,falso,fałszywy,4,0
+865,enfrente,naprzeciwko,4,0
+866,cerca,blisko,4,0
+867,estanco,wodoszczelny,4,0
+868,al lado,obok,4,0
+869,el sueño,marzenie,4,0
+870,el sobrino,siostrzeniec,4,0
+871,casado,żonaty,4,0
+872,soltero,kawaler,4,0
+873,el pasillo,korytarz,2,0
+874,la luz,światło,2,0
+875,el vórtcie,wir,5,0
+876,comunicado,skomunikowany,5,0
+877,la terraza,taras,4,0
+878,el sillón,fotel,4,0
+879,calvo,łysy,2,0
+880,fuerte,silny,2,0
+881,libre,wolny,2,0
+882,mojado,mokry,4,0
+883,vacío,pusty,1,0
+884,suscio,brudny,1,0
+885,debil,słaby,4,0
+886,amable,miły,2,0
+887,grosero,niemiły,2,0
+888,divertido,interesujący,2,0
+889,barato,tani,1,0
+890,caro,drogi,1,0
+891,moderno,nowoczesny,4,0
+892,antiguo,staroświecki,4,0
+893,feo,brzydki,1,0
+894,bonito,ładny,1,0
+895,estrecho,wąski,1,0
+896,ancho,szeroki,1,0
+897,tirar,rzucać,2,0
+898,escuchar,słuchać,2,0
+899,mirar,patrzeć,2,0
+900,abrir,otwierać,1,0
+901,hablar,mówić,1,0
+902,meter en,umieścić w,4,0
+903,completar,ukończyć,4,0
+904,comprender,zrozumieć,4,0
+905,preguntar,zapytać,2,0
+906,el cartel,plakat,5,0
+907,la tema,motyw,5,0
+908,lavar,myć,3,0
+909,querer,chcieć,3,0
+910,jugar,grać,2,0
+911,poder,móc,2,0
+912,comer,jeść,2,0
+913,pedir,prosić,2,0
+914,vivir,żyć,2,0
+915,hacer,robić,2,0
+916,el barrio,sąsiedztwo,6,0
+917,a donde,dokąd,4,0
+918,de donde,skąd,4,0
+919,raro,rzadko,4,0
+920,siempre,zawsze,4,0
+921,a veces,od czasu do czasu,4,0
+922,a menudo,często,4,0
+923,fumar,palić,4,0
+924,el camello,wielbłąd,5,0
+925,el paseo,spacer,5,0
+926,el borrador,gąbka,5,0
+927,la hoja,kartka,6,0
+928,la agenda,kalendarzyk,6,0
+929,el ejercicio,ćwiczenie,6,0
+930,aquel,tamten,5,0
+931,allí/allá,tam,5,0
+932,aqui,tutaj,5,0
+933,cuero,skórzany,5,0
+934,la mentira,kłamstwo,6,0
+935,bailar,tańczyć,4,0
+936,bajar,schodzić,4,0
+937,cantar,śpiewać,4,0
+938,comprar,kupować,4,0
+939,dejar,zostawić,4,0
+940,entrar,wchodzić,4,0
+941,estudiar,uczyć się,4,0
+942,llamarse,nazywać się,4,0
+943,nadar,pływać,4,0
+944,preparar,przygotować,4,0
+945,quedar,umawiać się,4,0
+946,quejarse,narzekać,4,0
+947,tocar,grać na instrumencie,4,0
+948,tomar,brać,4,0
+949,visitar,odwiedzać,4,0
+950,beber,pić,4,0
+951,correr,biegać,4,0
+952,vender,sprzedawać,4,0
+953,asistir,uczestniczyć,4,0
+954,oir,słyszeć,4,0
+955,preferir,woleć,4,0
+956,producir,produkować,4,0
+957,reír,śmiać się,4,0
+958,repetir,powtarzać,4,0
+959,salir,wychodzić,4,0
+960,seguir,iść dalej,4,0
+961,sentir,czuć,4,0
+962,servir,służyć,4,0
+963,traducir,tłumaczyć,4,0
+964,venir,przychodzić,4,0
+965,ver,widzieć,4,0
+966,volver,wracać,4,0
+967,conducir,prowadzić,4,0
+968,corregir,poprawiac,4,0
+969,despedir,żegnać,4,0
+970,dormir,spać,4,0
+971,herir,ranić,4,0
+972,ir,iść,4,0
+973,huir,uciekać,5,0
+974,mentir,kłamać,5,0
+975,morir,umierać,4,0
+976,haber,znajdować się,5,0
+977,llover,padać,4,0
+978,peder,zgubić,4,0
+979,saber,wiedzieć,4,0
+980,tener,mieć,4,0
+981,traer,przynosić,5,0
+982,pensar,myśleć,4,0
+983,atender,uczestniczyć,4,0
+984,nevar,padać,5,0
+985,conocer,znać,5,0
+986,convencer,przekonywać,5,0
+987,defender,bronić,5,0
+988,devolver,zawracać,5,0
+989,doler,boleć,4,0
+990,entender,rozumieć,4,0
+991,subir,wchodzić,4,0
+992,contar,liczyć,4,0
+993,costar,kosztować,4,0
+994,dar,dawać,4,0
+995,despertar,budzić się,4,0
+996,encontar,znaleźć,5,0
+997,el transporte,transport,4,0
+998,la carretera,droga,3,0
+999,la autopista,autostrada,2,0
+1000,el mapa,mapa,2,0
+1001,el tráfico,ruch uliczny,3,0
+1002,el camión,samochód ciężarowy,3,0
+1003,el peligro,niebezpieczeństwo,6,0
+1004,la,glorieta,rondo,5,0
+1005,el desvío,objezd,6,0
+1006,aparcar,parkować,3,0
+1007,adelantar,wyprzedzać,4,0
+1008,las obras,roboty drogowe,6,0
+1009,el paso de peatones,przejśdie dla pieszych,5,0
+1010,el autocar,autokar,2,0
+1011,la ruta,trasa,3,0
+1012,el tranvía,tramwaj,2,0
+1013,la parada,przystanek,3,0
+1014,la tarifa,opłata za przejazd,4,0
+1015,el horario,rozkład jazdy,4,0
+1016,el coche,samochód,1,0
+1017,la rueda,koło,5,0
+1018,el neumático,opona,6,0
+1019,la limusina,limuzyna,5,0
+1020,la gasolina,benzyna,4,0
+1021,el aire acondicionado,klimatyzacja,4,0
+1022,el automático,automatyczny,4,0
+1023,el freno,hamulec,5,0
+1024,el volante,kierownica,5,0
+1025,el techo,dach,5,0
+1026,la avería,awaria,3,0
+1027,la motocicleta,motocykl,3,0
+1028,el faro,reflektor,4,0
+1029,el motor,silnik,4,0
+1030,el tipo,typ,4,0
+1031,el acelerador,gaz,4,0
+1032,la bicicleta,rower,1,0
+1033,el tren,pociąg,1,0
+1034,el andén,peron,2,0
+1035,la lacomotora,lokomotywa,3,0
+1036,el metro,metro,2,0
+1037,el vagón,wagon,2,0
+1038,la asiento,miejsce,3,0
+1039,la hora punta,godzina szczytu,4,0
+1040,el plano,plan,4,0
+1041,el revisor,konduktor,5,0
+1042,la barrera,bramka,5,0
+1043,el avión,samolot,2,0
+1044,la salida,wyjście,2,0
+1045,el ala,skrzydło,5,0
+1046,la cabina,kabina,3,0
+1047,la fila,rząd,4,0
+1048,la salida de emergencia,wyjście awaryjne,5,0
+1049,la bandeja,stolik,5,0
+1050,la avioneta,awionetka,6,0
+1051,el helicópterp,helikopter,6,0
+1052,el misil,pocisk,6,0
+1053,el caza,myśliwiec,6,0
+1054,el aeropuerto,lotnisko,3,0
+1055,reservar un vuelo,zarezerwować lot,5,0
+1056,la conexión,połączenie,5,0
+1057,la torre,wieża,4,0
+1058,la pista,pas startowy,5,0
+1059,la aduana,odprawa celna,4,0
+1060,el vuelo,lot,4,0
+1061,nacional,krajowy,5,0
+1062,las vacaciones,wakacje,4,0
+1063,el inmigración,kontrola paszportowa,5,0
+1064,internacional,międzynarodowy,5,0
+1065,la seguridad,bezpieczeństwo,5,0
+1066,la tarjeta de embarque,karta pokładowa,5,0
+1067,el control de pasaportes,kontrola paszportowa,5,0
+1068,el equipaje,bagaż,3,0
+1069,las salidas,odloty,3,0
+1070,las llegadas,przyloty,3,0
+1071,la parada de taxis,postój taksówek,3,0
+1072,la recogida de equipajes,odbiór bagażu,3,0
+1073,el barco,statek,4,0
+1074,la cubierta,pokład,4,0
+1075,el radar,radar,3,0
+1076,el ancla,kotwica,6,0
+1077,el capitán,kapitan,5,0
+1078,el puerto,port,4,0
+1079,la lancha motora,łódź motorowa,5,0
+1080,el catamarán,katamaran,6,0
+1081,el barco de vela,żaglówka,6,0
+1082,el submarino,łódź podwodna,6,0
+1083,el yate,jacht,6,0
+1084,el ferry,prom,5,0
+1085,el petrolero,tankowiec,6,0
+1086,el almacén,magazyn,6,0
+1087,el contenedor,kontener,6,0
+1088,embarcar,wchodzić na pokład,6,0
+1089,atrcar,przybić do portu,6,0
+1090,desembarcar,wysiadać,6,0
+1091,zarpar,wypłynąć w morze,6,0
+1092,el faro,latarnia morska,6,0
+1093,el deporte,sport,2,0
+1094,el fútbol americano,futbol amerykański,4,0
+1095,el jugador,gracz,3,0
+1096,el rugby,rugby,3,0
+1097,coger,złapać,3,0
+1098,el balón,piłka,2,0
+1099,la bota,but,3,0
+1100,coger,złapać,3,0
+1101,pasar,podawać,3,0
+1102,el fútbol,piłka nożna,2,0
+1103,el trio libre,rzut wolny,4,0
+1104,placar,blokować,4,0
+1105,chutar,kopać,4,0
+1106,el portero,bramkarz,3,0
+1107,el hockey,hokej,4,0
+1108,el equipo,drużyna,3,0
+1109,el ataque,atak,3,0
+1110,la defensa,obrona,3,0
+1111,la punctuación,wynik,4,0
+1112,el jugador de baloncesto,koszykarz,5,0
+1113,saltar,skakać,4,0
+1114,lanzar,rzucać,4,0
+1115,la canasta,kosz,5,0
+1116,el béisbol,bejsbol,5,0
+1117,la pelota,piłka,5,0
+1118,el servicio,serw,5,0
+1119,el partido,mecz,3,0
+1120,el bádminton,badminton,5,0
+1121,el campeonato,turniej,4,0
+1122,el golf,golf,4,0
+1123,el atletismo,lekkoatletyka,4,0
+1124,el campo,boisko,3,0
+1125,la carrera,wyścig,4,0
+1126,el tiempo,czas,2,0
+1127,el récord,rekord,4,0
+1128,batir un récord,pobić rekord,4,0
+1129,la maratón,maraton,2,0
+1130,la línea de meta,meta,4,0
+1131,la gimnasia,gimnastyka,4,0
+1132,la barra fija,drążek,4,0
+1133,el guante,rękawica,5,0
+1134,la lucha libre,zapasy,5,0
+1135,el boxeo,boks,4,0
+1136,el ring,ring,4,0
+1137,el asalto,runda,4,0
+1138,la defensa personal,samoobrona,4,0
+1139,la natación,pływanie,4,0
+1140,el trampolín,trampolina,4,0
+1141,el tubo,rurka,5,0
+1142,el socorrista,ratownik,6,0
+1143,la mariposa,motylek,4,0
+1144,la vela,żeglarstwo,6,0
+1145,el kayak,kajak,5,0
+1146,la tabla,deska,6,0
+1147,el surfing,surfing,5,0
+1148,el surfista,surfer,5,0
+1149,el tripulación,załoga,4,0
+1150,el timón ster,5,0
+1151,el viento,wiatr,3,0
+1152,la ola,fala,3,0
+1153,la equitación,jazda konna,6,0
+1154,el salto,skok,6,0
+1155,la cuadra,stajnia,6,0
+1156,el galope,galop,6,0
+1157,la pesca,wędkarstwo,5,0
+1158,recoger,wciągać,5,0
+1159,el esquí,narciarstwo,5,0
+1160,la esquiadora,narciarka,5,0
+1161,el bobsleigh,bobslej,5,0
+1162,el curling,curling,5,0
+1163,la escalada,wspinaczka skalna,5,0
+1164,el rally,rajd samochodowy,5,0
+1165,el automovilismo,wyścig samochodowy,5,0
+1166,el motociclismo,wyścig motocyklowy,5,0
+1167,la diana,tarcza,5,0
+1168,el arco,łuk,4,0
+1169,los bolos,kręgle,5,0
+1170,el billar,bilard,5,0
+1171,la pesa,hantla,5,0
+1172,el aeróbic,aerobik,5,0
+1173,el footing,jogging,5,0
+1174,entrenarse,trenować,6,0
+1175,laventar,podciagać,6,0
+1176,el ocio,czas wolny,5,0
+1177,el teatro,teatr,4,0
+1178,el decorado,dekoracja,5,0
+1179,el escenario,scena,5,0
+1180,el actor,aktor,2,0
+1181,el director,reżyser,2,0
+1182,el público,publiczność,2,0
+1183,el productor,producent,5,0
+1184,el guión,scenariusz,5,0
+1185,el programa,program,4,0
+1186,el concierto,koncert,4,0
+1187,el póster,plakat,4,0
+1188,el musical,musical,5,0
+1189,el ballet,balet,5,0
+1190,las palomitas,popcorn,5,0
+1191,la ópera,opera,4,0
+1192,el cine,kino,3,0
+1193,la comedia,komedia,3,0
+1194,la película de suspense,thriller,4,0
+1195,la película de terror,horror,4,0
+1196,la película del oeste,western,4,0
+1197,el triángulo,trójkąt,4,0
+1198,la trompeta,trąbka,4,0
+1199,la pausa,pauza,2,0
+1200,asia,azja,1,0
+1201,la batería,perkusja,5,0
+1202,el micrófono,mikrofon,4,0
+1203,el guitarrista,gitarzysta,4,0
+1204,el teclado,keybord,6,0
+1205,la guitarra,gitara,2,0
+1206,la contrabajo,gitara basowa,3,0
+1207,el tambor,bęben,4,0
+1208,la melodía,melodia,4,0
+1209,la canción,piosenka,3,0
+1210,el ritmo,rytm,4,0
+1211,la letra,tekst,3,0
+1212,abierto,otwarty,2,0
+1213,cerrado,zamkniety,2,0
+1214,la guía del viajero,przewodnik,3,0
+1215,el precio de entradam,opłata za wstęp,4,0
+1216,la pila,bateria,4,0
+1217,la cámara de vídeo,kamera,3,0
+1218,la cámara de fotos,aparat,3,0
+1219,la galeria de arte,galeria sztuki,4,0
+1220,el monumento,pomnik,4,0
+1221,el museo,muzeum,2,0
+1222,el casino,kasyno,3,0
+1223,el parque nacional,4,0
+1224,el sendero ścieżka,4,0
+1225,la hierba,trawa,4,0
+1226,el zoo,zoo,4,0
+1227,el ciclismo,jazda na rowerze,5,0
+1228,la playa,plaża,2,0
+1229,la sombrilla,parasolka,3,0
+1230,la arena,piasek,3,0
+1231,el mar,morze,1,0
+1232,el bikini,bikini,4,0
+1233,la hamaca,leżak,4,0
+1234,la concha,muszla,6,0
+1235,el castillo,zamek,4,0
+1236,el camping,kemping,5,0
+1237,el carbón,węgiel,3,0
+1238,la oguera,ognisko,5,0
+1239,el termo,termos,5,0
+1240,la tienda,namiot,3,0
+1241,la linterna,latarka,3,0
+1242,el saco de dormir,spiwór,4,0
+1243,el barbacoa,grill,6,0
+1244,los auriculares,słuchawki,6,0
+1245,la pantalla,ekran,6,0
+1246,el mando a distancia,pilot,6,0
+1247,la televisión por cable,telewizja kablowa,5,0
+1248,el programa,program,4,0
+1249,encender,włączyć,4,0
+1250,apagar,wyłączyć,4,0
+1251,el tripode,statyw,5,0
+1252,el apaisado,pejzaż,5,0
+1253,el juego,gra,4,0
+1254,la reina,królowa,4,0
+1255,el rey,król,4,0
+1256,el ajedrez,szachy,5,0
+1257,el turno,ruch,4,0
+1258,ganar,wygrywać,4,0
+1259,el ganador,zwycięzca,4,0
+1260,perder,przegrywać,4,0
+1261,el perdedor,przegrany,4,0
+1262,la partida,gra,3,0
+1263,el póquer,poker,3,0
+1264,la pintura,malarstwo,4,0
+1265,rojo,czerwony,1,0
+1266,azul,niebieski,1,0
+1267,amarillo,żółty,1,0
+1268,verde,zielony,1,0
+1269,naranja,pomarańczowy,1,0
+1270,morado,fioletowy,1,0
+1271,europa,europa,1,0
+1272,africa,afryka,1,0
+1273,gris,szary,1,0
+1274,marrón,brązowy,1,0
+1275,el dibujo,rysunek,3,0
+1276,coser,szyć,4,0
+1277,la seda,jedwab,5,0
+1278,la moda,moda,3,0
+1279,el medio ambiente,środowisko,5,0
+1280,el espacio,kosmos,4,0
+1281,mercurio,merkury,4,0
+1282,marte,mars,4,0
+1283,júpiter,jowisz,4,0
+1284,urano,uran,4,0
+1285,venus,wenus,4,0
+1286,tierra,ziemia,4,0
+1287,saturno,saturn,4,0
+1288,neptuno,neptun,4,0
+1289,plutón,pluton,4,0
+1290,la estrella,gwiazda,4,0
+1291,la galaxia,galaktyka,4,0
+1292,la nebulosa,mgławica,4,0
+1293,el asteroide,asteroida,4,0
+1294,el cometa,kometa,4,0
+1295,el eclipse,zaćmienie,5,0
+1296,el planeta,planeta,4,0
+1297,el universo,wszechświat,4,0
+1298,la órbita,orbita,4,0
+1299,la gravedad,grwitacja,4,0
+1300,el meteorito,meteoryt,4,0
+1301,el agujero negro,czarna dziura,5,0
+1302,la luna llena,pełnia księżyca,3,0
+1303,la exploracón espacial,badania kosmosu,5,0
+1304,la estación espacial,stacja kosmiczna,5,0
+1305,el transportador espacial,prom kosmiczny,5,0
+1306,la constelación,gwiazdozbiór,3,0
+1307,el satélite,satelita,3,0
+1308,el telescopio,teleskop,4,0
+1309,los prismáticos,lornetka,4,0
+1310,el polo,biegun,3,0
+1311,el continente,kontynent,3,0
+1312,el océano,ocean,3,0
+1313,la tierra firme,ląd,3,0
+1314,la península,półwysep,4,0
+1315,la isla, wyspa,3,0
+1316,el núcleo interno,jądro wewnętrzne,5,0
+1317,el núcleo externo,jądro zewnętrzne,5,0
+1318,la atmósfera,atmosfera,4,0
+1319,el trópico,zwrotnik,4,0
+1320,el ecuador,równik,4,0
+1321,el hemisferio,półkula,4,0
+1322,la longitud,długość geograficzna,5,0
+1323,la latitud,szerokość geograficzna,5,0
+1324,la lava,lawa,4,0
+1325,el magma,magma,4,0
+1326,el volcán,wulkan,3,0
+1327,el terremoto,trzęsienie ziemi,3,0
+1328,entrar en erupción,wybuchąć,4,0
+1329,la placa,płyta,4,0
+1330,el temblor,wstrząs,4,0
+1331,la zona,strefa,4,0
+1332,el peisaje,pejzaż,3,0
+1333,la montaña,góra,3,0
+1334,la orilla,brzeg,4,0
+1335,el río,rzeka,2,0
+1336,las rocas,skały,2,0
+1337,la colina,wzgórze,3,0
+1338,el glaciar,lodowiec,3,0
+1339,el valle,dolina,3,0
+1340,la cueva,jaskina,3,0
+1341,el desierto,pustynia,3,0
+1342,el bosque,las,2,0
+1343,el pantano,bagno,5,0
+1344,el prado,łąka,5,0
+1345,la cascada,wodospad,2,0
+1346,el lago,jezioro,2,0
+1347,la costa,wybrzeże,2,0
+1348,la aurora,zorza,4,0
+1349,el agua nieve,śnieg z deszczem,4,0
+1350,el granizo,grad,4,0
+1351,el truento,grzmot,4,0
+1352,la nube,chmura,4,0
+1353,la lluvia,deszcz,4,0
+1354,la tormenta,burza,4,0
+1355,la niebla,mgła,4,0
+1356,el arco iris,tęcza,5,0
+1357,la nieve,śnieg,4,0
+1358,la helada,mróz,4,0
+1359,la huracán,huragan,4,0
+1360,el tornado,tornado,4,0
+1361,el monzón,monsun,5,0
+1362,el mármol,marmur,5,0
+1363,los minerales,minerały,5,0
+1364,los animales,zwierzęta,5,0
+1365,el cornejo,królik,4,0
+1366,el hámster,chomik,4,0
+1367,el ratón,mysz,3,0
+1368,la rata,szczur,3,0
+1369,el zorro,lis,3,0
+1370,el murciélago,nietoperz,5,0
+1371,el lobo,wilk,3,0
+1372,el perro,pies,2,0
+1373,el delfín,delfin,5,0
+1374,la foca,foka,5,0
+1375,el gato,kot,2,0
+1376,el león,lew,2,0
+1377,marino,morski,5,0
+1378,la morsa,mors,5,0
+1379,la ballena,wieloryb,5,0
+1380,el delfín,delfin,5,0
+1381,el ciervo,jeleń,5,0
+1382,la cebra,zebra,3,0
+1383,la jirafa,żyrafa,3,0
+1384,el camello,wielbłąd,5,0
+1385,el hipopótamo,hipopotam,5,0
+1386,el elfante,słoń,3,0
+1387,el tigre,tygrys,2,0
+1388,el mono,małpa,2,0
+1389,la gorila,goryl,3,0
+1390,el canguro,kangur,5,0
+1391,el oso,niedźwiedź,5,0
+1392,el koala,koala,5,0
+1393,la paloma,gołąb,2,0
+1394,el colibrí,koliber,5,0
+1395,el halcón,sokół,5,0
+1396,el pelícano,pelikan,5,0
+1397,el flamenco,flaming,5,0
+1398,la gaviota,mewa,5,0
+1399,la cigüeña,bocian,5,0
+1400,la águila,orzeł,2,0
+1401,el pingüino,pingwin,5,0
+1402,el cocodrilo,krokodyl,3,0
+1403,el loro,papuga,3,0
+1404,la tortuga,żółw,3,0
+1405,la rana,żaba,5,0
+1406,los peces,ryby,3,0
+1407,el tiburón,rekin,3,0
+1408,la hormiga,mrówka,5,0
+1409,la avispa,osa,5,0
+1410,la abeja,pszczoła,5,0
+1411,el escorpión,skrpion,3,0
+1412,la araña,pająk,3,0
+1413,la mosca,mucha,3,0
+1414,el mosquito,komar,3,0
+1415,el caracol,ślimak,3,0
+1416,la langosta,homar,5,0
+1417,las plantas,rośliny,3,0
+1418,el árbol,drzewo,3,0
+1419,la ciudad,miasto,1,0
+1420,la easquina,róg ulicy,3,0
+1421,el cruce,skrzyzowanie,3,0
+1422,la acera,chodnik,3,0
+1423,la avenida,aleja,3,0
+1424,la plaza,plac,2,0
+1425,la fábrica,fabryka,4,0
+1426,la iglesia,kościół,1,0
+1427,la universidad,uniwersytet,1,0
+1428,el ayuntamiento,ratusz,2,0
+1429,el rascacielos,drapacz chmur,3,0
+1430,el pueblo,wioska,1,0
+1431,el cúpula,kopuła,5,0
+1432,el templo,świątynia,3,0
+1433,el puente,most,2,0
+1434,la presa,zapora,4,0
+1435,la columna,filar,4,0
+1436,la catedral,katedra,1,0
+1437,renacimiento,renesans,4,0
+1438,gótico,gotyk,4,0
+1439,el estilo modernista,secesja,4,0
+1440,los estilos,style,4,0
+1441,barroco,barok,4,0
+1442,rococó,rokoko,4,0
+1443,neoclásico,neoklasyczny,4,0
+1444,los datos,informacje,2,0
+1445,la medianoche,północ,2,0
+1446,el amanecer,wschód słońca,3,0
+1447,el alba,świt,3,0
+1448,la puesta el sol,zachód słońca,3,0
+1449,la mediodía,południe,3,0
+1450,la mañana,poranek,3,0
+1451,la noche,noc,1,0
+1452,la película de ciencia ficcion,5,0
+1453,los instrumentos,instrumenty,3,0
+1454,la orquesta,orkiestra,3,0
+1455,el violin,skrzypce,5,0
+1456,la nota,nuta,5,0
+1457,la sinfonía,symfonia,5,0
+1458,extraño,dziwny,3,0
+1459,la flauta,flet,5,0
+1460,el saxofón,saksofon,6,0
+1461,el anochecer,zmierzch,3,0
+1462,la tarde,popołudnie,3,0
+1463,el minuto,minuta,1,0
+1464,el segundo,sekunda,1,0
+1465,ahora,teraz,2,0
+1466,más tarde,3,0
+1467,media hora,pół godziny,3,0
+1468,el calendario,kalendarz,4,0
+1469,el mes,miesiąc,2,0
+1470,la semana,tydzień,2,0
+1471,el año,rok,1,0
+1472,el día,dzień,1,0
+1473,enero,styczeń,1,0
+1474,febrero,luty,1,0
+1475,marzo,marzec,1,0
+1476,abril,kwiecień,1,0
+1477,mayo,maj,1,0
+1478,junio,czerwiec,1,0
+1479,julio,lipiec,1,0
+1480,agosto,sierpień,1,0
+1481,septiembre,wrzesień,1,0
+1482,octubre,październik,1,0
+1483,noviembre,listopad,1,0
+1484,diciembre,grudzień,1,0
+1485,domingo,niedziela,1,0
+1486,sábado,sobota,1,0
+1487,viernes,piątek,1,0
+1488,jueves,czwartek,1,0
+1489,miércoles,środa,1,0
+1490,martes,wtorek,1,0
+1491,lunes,poniedziałek,1,0
+1492,la primavera,wiosna,1,0
+1493,el verano,lato,1,0
+1494,el otoño,jesień,1,0
+1495,el invierno,zima,1,0
+1496,el siglo,wiek,3,0
+1497,la década,dekada,3,0
+1498,el milenio,tysiąclecie,3,0
+1499,esta semana,w tym tygodniu,3,0
+1500,la semana pasada,w zeszłym tygodniu,3,0
+1501,la semana que viene,w przyszłym tygodniu,3,0
+1502,antes de ayer,przedwczoraj,3,0
+1503,pasado mañana,pojutrze,3,0
+1504,semanalmente,cotygodniowy,3,0
+1505,mensual,comiesięczny,3,0
+1506,anual,roczny,3,0
+1507,el festivo,święto,3,0
+1508,la hora,godzina,2,0
+1509,ayer,wczoraj,2,0
+1510,hoy,dzisiaj,2,0
+1511,el fin de semana,koniec tygodnia,2,0
+1512,los números,liczby,1,0
+1513,cero,zero,1,0
+1514,uno,jeden,1,0
+1515,dos,dwa,1,0
+1516,tres,trzy,1,0
+1517,cuatro,cztery,1,0
+1518,cinco,pięc,1,0
+1519,seis,sześć,1,0
+1520,siete,siedem,1,0
+1521,ocho,osiem,1,0
+1522,nueve,dziewięć,1,0
+1523,diez,dziesięć,1,0
+1524,once,jedenaście,1,0
+1525,doce,dwanaście,1,0
+1526,trece,trzynascie,1,0
+1527,catorce,czternaście,1,0
+1528,quince,piętnaście,1,0
+1529,dieciséis,szesnaście,1,0
+1530,diecisiete,siedemnaście,1,0
+1531,dieciocho,osiemnaście,1,0
+1532,diecinueve,dziewiętnaście,1,0
+1533,veinte,dwadzieścia,1,0
+1534,veintiuno,dwadzieścia jeden,1,0
+1535,veintidós,dwadzieścia dwa,1,0
+1536,treinta,trzydzieści,1,0
+1537,cuarenta,czterdzieści,1,0
+1538,cincuenta,pięcdziesiąt,1,0
+1539,sesenta,sześćdziesiąt,1,0
+1540,setenta,siedemdziesiąt,1,0
+1541,ochenta,osiemdziesiąt,1,0
+1542,noventa,dziewięćdziesiąt,1,0
+1543,cien,sto,1,0
+1544,ciento diez,sto dziesięć,2,0
+1545,doscientos,dwieście,2,0
+1546,trescientos,,trzysta,2,0
+1547,cuatrocientos,czterysta,2,0
+1548,quinientos,pięćset,2,0
+1549,seiscientos,sześćset,2,0
+1550,setecientos,siedemset,2,0
+1551,ochocientos,osiemset,2,0
+1552,novecientos,,dziewięćset,2,0
+1553,mil,tysiąc,3,0
+1554,el kilogramo,kilogram,3,0
+1555,el kilómetro,kilometr,3,0
+1556,la milla,mila,4,0
+1557,la yard,jard,4,0
+1558,el metro,metr,2,0
+1559,medir,mierzyć,4,0
+1560,pesar,ważyć,4,0
+1561,la bolsa,worek,5,0
+1562,el volumen,objętość,4,0
+1563,el mapamundi,mapa świata,3,0
+1564,el mundo,świat,1,0
+1565,el mar báltico,morze bałtyckie,2,0
+1566,el mar del norte,morze północne,2,0
+1567,el mar caribe,morze karaibskie,2,0
+1568,el amazonas,amazonia,2,0
+1569,el océano pacífico,ocean spokojny,2,0
+1570,los andes,andy,3,0
+1571,el norte,północ,2,0
+1572,el este,wschód,2,0
+1573,el oeste,zachód,2,0
+1574,el sur,południe,2,0
+1575,el océano atlántico,ocean atlantycki,3,0
+1576,el mar rojo,morze czerwone,3,0
+1577,canadá,kanada,2,0
+1578,estados unidos,stany zjednoczone,1,0
+1579,méxico,meksyk,1,0
+1580,América del norte,ameryka północna,1,0
+1581,América del sur,ameryka południowa,1,0
+1582,el país,kraj,1,0
+1583,el estado,państwo,3,0
+1584,la nación,naród,2,0
+1585,la provincia,prowincja,3,0
+1586,la colonia,kolonia,3,0
+1587,el territorio,terytorium,2,0
+1588,el principado,księstwo,3,0
+1589,reino unido,zjednoczone królestwo,2,0
+1590,inglaterra,anglia,2,0
+1591,suecia,szwecja,2,0
+1592,república checa,czechy,2,0
+1593,suiza,szwajcaria,2,0
+1594,europa,europa,1,0
+1595,africa,afryka,1,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

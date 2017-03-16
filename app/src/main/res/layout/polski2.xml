@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.arqonia.supermemopolaco.MainActivity"><![CDATA[
+
+
+    include layout="@layout/content_main"
+        android:layout_height="298dp"
+        android:layout_width="91dp" />
+
+    ]]>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sky">
+
+        <Button
+            android:text="Porownaj"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:id="@+id/buttonPorownaj"
+            tools:text="Porównaj"
+            android:textColor="#000000"
+            android:background="@drawable/button_pressed"
+            android:enabled="false"
+            android:layout_alignBottom="@+id/buttonWylosuj"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="34dp"
+            android:layout_marginEnd="34dp"
+            android:layout_alignTop="@+id/buttonWylosuj" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/editTextWprowadz"
+            android:text=""
+            android:background="#FFFFFF"
+            android:gravity="center_horizontal"
+            tools:text=""
+            android:hint="Wprowadź"
+            android:layout_marginTop="65dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_below="@+id/textViewWylosuj"
+            android:layout_alignLeft="@+id/buttonWylosuj"
+            android:layout_alignStart="@+id/buttonWylosuj"
+            android:layout_alignRight="@+id/buttonPorownaj"
+            android:layout_alignEnd="@+id/buttonPorownaj" />
+
+        <Button
+            android:text="Wylosuj"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:id="@+id/buttonWylosuj"
+            tools:text="Wylosuj"
+            android:textColor="#000000"
+            android:background="@drawable/button_pressed"
+            android:layout_marginBottom="18dp"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp"
+            android:layout_above="@+id/textViewWylosuj"
+            android:layout_alignLeft="@+id/textViewWylosuj"
+            android:layout_alignStart="@+id/textViewWylosuj" />
+
+        <TextView
+            android:text="Rezultat"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:id="@+id/textViewPorownaj"
+            tools:text="Rezultat"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_marginRight="19dp"
+            android:layout_marginEnd="19dp"
+            android:layout_above="@+id/editTextWprowadz"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:text="Slowo"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:id="@+id/textViewWylosuj"
+            tools:text="Słowo"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_marginLeft="19dp"
+            android:layout_marginStart="19dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="poznanych słów"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Powered"
+            android:layout_marginTop="42dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/buttonWylosuj"
+            android:layout_alignStart="@+id/buttonWylosuj" />
+
+        <TextView
+            android:text="N"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/textViewNumer"
+            tools:text="N"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:layout_alignBaseline="@+id/Powered"
+            android:layout_alignBottom="@+id/Powered"
+            android:layout_toLeftOf="@+id/Powered"
+            android:layout_toStartOf="@+id/Powered" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

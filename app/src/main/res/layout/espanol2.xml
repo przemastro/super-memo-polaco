@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.arqonia.supermemopolaco.MainActivity"><![CDATA[
+
+
+    include layout="@layout/content_main"
+        android:layout_height="298dp"
+        android:layout_width="91dp" />
+
+    ]]>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sky">
+
+        <Button
+            android:text="Comprobar"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:id="@+id/buttonComprobar"
+            tools:text="Comprobar"
+            android:textColor="#000000"
+            android:background="@drawable/button_pressed"
+            android:enabled="false"
+            android:layout_alignBottom="@+id/buttonSortear"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="34dp"
+            android:layout_marginEnd="34dp"
+            android:layout_alignTop="@+id/buttonSortear" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/editTextEntrada"
+            android:text=""
+            android:background="#FFFFFF"
+            android:gravity="center_horizontal"
+            tools:text=""
+            android:hint="Entrada"
+            android:layout_marginTop="65dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_below="@+id/textViewSortear"
+            android:layout_alignLeft="@+id/buttonSortear"
+            android:layout_alignStart="@+id/buttonSortear"
+            android:layout_alignRight="@+id/buttonComprobar"
+            android:layout_alignEnd="@+id/buttonComprobar" />
+
+        <Button
+            android:text="Sortear"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:id="@+id/buttonSortear"
+            tools:text="Sortear"
+            android:textColor="#000000"
+            android:background="@drawable/button_pressed"
+            android:layout_marginBottom="18dp"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp"
+            android:layout_above="@+id/textViewSortear"
+            android:layout_alignLeft="@+id/textViewSortear"
+            android:layout_alignStart="@+id/textViewSortear" />
+
+        <TextView
+            android:text="Resultado"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:id="@+id/textViewComprobar"
+            tools:text="Resultado"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_marginRight="19dp"
+            android:layout_marginEnd="19dp"
+            android:layout_above="@+id/editTextEntrada"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:text="Palabra"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:id="@+id/textViewSortear"
+            tools:text="Palabra"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_marginLeft="19dp"
+            android:layout_marginStart="19dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="N"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/textViewNumero"
+            tools:text="N"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:layout_alignBaseline="@+id/Powered"
+            android:layout_alignBottom="@+id/Powered"
+            android:layout_alignLeft="@+id/buttonRaz"
+            android:layout_alignStart="@+id/buttonRaz"
+            android:layout_toLeftOf="@+id/Powered"
+            android:layout_toStartOf="@+id/Powered" />
+
+        <TextView
+            android:text="palabras conocidas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Powered"
+            android:layout_marginTop="42dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/buttonSortear"
+            android:layout_alignStart="@+id/buttonSortear" />
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>
