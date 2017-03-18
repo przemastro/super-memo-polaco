@@ -88,7 +88,7 @@ public class Polski2 extends Activity {
                 mybtnPorownaj.setEnabled(false);
                 textViewPorownaj.setText(drawEspanol(pol.getIdValue()));
                 String name = editTextWprowadz.getText().toString();
-                if (name.trim().equals(wordEspanol.trim())) {
+                if (name.trim().toLowerCase().equals(wordEspanol.trim().toLowerCase())) {
                     int value = Integer.parseInt(myDb.getPolskiPoints(textViewPorownaj.getText().toString()));
                     if(value < 4) {
                         value = value + 1;

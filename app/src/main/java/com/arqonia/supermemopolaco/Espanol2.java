@@ -98,7 +98,7 @@ public class Espanol2 extends Activity {
                 mybtnComprobar.setEnabled(false);
                 textViewComprobar.setText(drawPolski(esp.getIdValue()));
                 String name = editTextEntrada.getText().toString();
-                if (name.trim().equals(wordPolski.trim())) {
+                if (name.trim().toLowerCase().equals(wordPolski.trim().toLowerCase())) {
                     int value = Integer.parseInt(myDb.getEspanolPoints(textViewComprobar.getText().toString()));
                     if(value < 4) {
                         value = value + 1;

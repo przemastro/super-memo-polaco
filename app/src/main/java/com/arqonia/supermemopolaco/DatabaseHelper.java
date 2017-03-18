@@ -155,6 +155,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("create table " + TABLE_NAME + " (ID INTEGER,ESPANOL TEXT,POLSKI TEXT,LEVEL INTEGER,POINTS INTEGER,POINTS2 INTEGER)");
+        db.beginTransaction();
         db.execSQL("insert into " + TABLE_NAME +" values" +
                 "('1','la gente','ludzie','1','0','0'),\n" +
                 "('2','el cuerpo','ciało','1','0','0'),\n" +
@@ -655,6 +656,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 "('497','la crema','krem','4','0','0'),\n" +
                 "('498','el hierro','żelazo','5','0','0'),\n" +
                 "('499','el calcio','wapń','5','0','0');");
+        db.setTransactionSuccessful();
+        db.endTransaction();
 /*
         db.execSQL("Begin; insert into " + TABLE_NAME +" values" +
                 "('500','el magnesio','magnez','6','0','0')," +
