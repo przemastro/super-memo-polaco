@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.arqonia.supermemopolaco.MainActivity">
+
+    include layout="@layout/content_main"
+    android:layout_height="298dp"
+    android:layout_width="91dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sky2">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/appBarLayout">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:navigationIcon="@drawable/back_arrow"/>
+
+        </android.support.design.widget.AppBarLayout>
+
+        <TextView
+            android:text="SuperMemoPolaco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            tools:text="SuperMemoPolaco"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+            android:layout_below="@+id/appBarLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="21dp"
+            android:layout_marginStart="21dp" />
+
+        <TextView
+            android:text="Ver 1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Ver"
+            android:textColor="#ffffff"
+            android:layout_below="@+id/textView"
+            android:layout_alignLeft="@+id/textView"
+            android:layout_alignStart="@+id/textView" />
+
+        <TextView
+            android:text="Developed by Przemysław Jagodziński "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Powered"
+            android:textColor="#ffffff"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/Ver"
+            android:layout_alignLeft="@+id/Ver"
+            android:layout_alignStart="@+id/Ver" />
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

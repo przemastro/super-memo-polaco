@@ -19,6 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".Espanol"
                   android:screenOrientation="portrait">
         </activity>
@@ -30,6 +31,9 @@
         </activity>
         <activity android:name=".Polski2"
                   android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".About"
+            android:screenOrientation="portrait">
         </activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
         <meta-data

@@ -3,6 +3,7 @@ package com.arqonia.supermemopolaco;
 import android.app.Activity;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -28,6 +29,7 @@ public class Polski2 extends Activity {
     Button mybtnPorownaj;
     TextView textViewWylosuj;
     TextView textViewPorownaj;
+    TextView textViewPoziom;
     EditText editTextWprowadz;
     DatabaseHelper myDb;
     Polski pol;
@@ -51,8 +53,17 @@ public class Polski2 extends Activity {
         textViewPorownaj = (TextView) findViewById(R.id.textViewPorownaj);
         editTextWprowadz = (EditText) findViewById(R.id.editTextWprowadz);
 
-        textViewNumer = (TextView) findViewById(R.id.textViewNumer);
-        textViewNumer.setText(myDb.getPolskiNumer());
+        textViewPoziom = (TextView) findViewById(R.id.textViewPoziom);
+        textViewPoziom.setText(pol.ID2);
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
 
         pol = new Polski();
 
@@ -62,6 +73,8 @@ public class Polski2 extends Activity {
             public void onClick(View v) {
                 mybtnPorownaj.setEnabled(true);
                 textViewWylosuj.setText(drawPolski(pol.getIdValue()));
+                mybtnWylosuj.setVisibility(View.GONE);
+                mybtnPorownaj.setVisibility(View.VISIBLE);
             }
         });
 
@@ -70,6 +83,8 @@ public class Polski2 extends Activity {
 
             @Override
             public void onClick(View v) {
+                mybtnWylosuj.setVisibility(View.VISIBLE);
+                mybtnPorownaj.setVisibility(View.GONE);
                 mybtnPorownaj.setEnabled(false);
                 textViewPorownaj.setText(drawEspanol(pol.getIdValue()));
                 String name = editTextWprowadz.getText().toString();
@@ -95,6 +110,11 @@ public class Polski2 extends Activity {
             }
         });
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+
+    @Override
+    public void onBackPressed() {
+        finish();
     }
 
 

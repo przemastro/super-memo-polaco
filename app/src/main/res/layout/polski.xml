@@ -14,25 +14,25 @@
 
     ]]>
 
-    <android.support.design.widget.AppBarLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:theme="@style/AppTheme.AppBarOverlay">
-
-        <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/AppTheme.PopupOverlay"
-            android:backgroundTint="#008000"/>
-
-    </android.support.design.widget.AppBarLayout>
-
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/sky">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/appBarLayout">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:navigationIcon="@drawable/back_arrow"/>
+
+        </android.support.design.widget.AppBarLayout>
 
         <TextView
             android:text="Cześć!"
@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="173dp"
+            android:layout_marginTop="210dp"
             android:id="@+id/textView"
             tools:text="Cześć!"
             android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse" />
@@ -57,107 +57,121 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse" />
 
         <Button
-            android:text="1"
-            android:layout_width="wrap_content"
+            android:text="Pierwszy"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="54dp"
+            android:layout_marginTop="85dp"
             android:id="@+id/buttonRaz"
-            android:layout_marginLeft="21dp"
-            android:layout_marginStart="21dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
             android:layout_below="@+id/textView2"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
 
         <Button
-            android:text="2"
-            android:layout_width="wrap_content"
+            android:text="Drugi"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:id="@+id/buttonDwa"
             android:layout_alignBaseline="@+id/buttonRaz"
             android:layout_alignBottom="@+id/buttonRaz"
             android:layout_centerHorizontal="true"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
 
         <Button
-            android:text="3"
-            android:layout_width="wrap_content"
+            android:text="Trzeci"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:id="@+id/buttonTrzy"
-            android:layout_marginRight="21dp"
-            android:layout_marginEnd="21dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
             android:layout_alignBaseline="@+id/buttonDwa"
             android:layout_alignBottom="@+id/buttonDwa"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
 
         <Button
-            android:text="4"
-            android:layout_width="wrap_content"
+            android:text="Czwarty"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_below="@+id/buttonRaz"
             android:layout_alignLeft="@+id/buttonRaz"
             android:layout_alignStart="@+id/buttonRaz"
-            android:layout_marginTop="35dp"
+            android:layout_marginTop="42dp"
             android:id="@+id/buttonCztery"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
 
         <Button
-            android:text="5"
-            android:layout_width="wrap_content"
+            android:text="Piąty"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_alignTop="@+id/buttonCztery"
             android:layout_alignLeft="@+id/buttonDwa"
             android:layout_alignStart="@+id/buttonDwa"
             android:id="@+id/buttonPiec"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
 
         <Button
-            android:text="6"
-            android:layout_width="wrap_content"
+            android:text="Szósty"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_alignTop="@+id/buttonPiec"
             android:layout_alignRight="@+id/buttonTrzy"
             android:layout_alignEnd="@+id/buttonTrzy"
             android:id="@+id/buttonSzesc"
             android:onClick="onButtonClick"
-            android:textColor="#000000"
+            android:textColor="#3379eb"
             android:background="@drawable/button_pressed"/>
-<!--
-        <TextView
-            android:text="N"
-            android:layout_width="20dp"
-            android:layout_height="20dp"
-            android:id="@+id/textViewNumer"
-            tools:text="N"
-            android:gravity="center_horizontal"
-            android:textAlignment="gravity"
-            android:layout_alignBaseline="@+id/Powered"
-            android:layout_alignBottom="@+id/Powered"
-            android:layout_alignLeft="@+id/buttonRaz"
-            android:layout_alignStart="@+id/buttonRaz" />
 
         <TextView
             android:text="poznanych słów"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/Powered"
-            android:layout_marginTop="42dp"
-            android:layout_alignParentTop="true"
-            android:layout_toRightOf="@+id/textViewNumer"
-            android:layout_toEndOf="@+id/textViewNumer" />
--->
+            android:textColor="#ffffff"
+            android:layout_below="@+id/appBarLayout"
+            android:layout_alignRight="@+id/textView"
+            android:layout_alignEnd="@+id/textView" />
+
+        <TextView
+            android:text="N"
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:id="@+id/textViewNumer"
+            tools:text="N"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:layout_below="@+id/appBarLayout"
+            android:layout_toLeftOf="@+id/Powered"
+            android:layout_toStartOf="@+id/Powered" />
+
+        <TextView
+            android:text="Polski "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:id="@+id/Espanol"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginStart="14dp"
+            android:layout_above="@+id/Powered"
+            android:layout_alignLeft="@+id/textViewNumer"
+            android:layout_alignStart="@+id/textViewNumer" />
+
     </RelativeLayout>
 
 </android.support.design.widget.CoordinatorLayout>

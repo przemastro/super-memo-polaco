@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     tools:context="com.arqonia.supermemopolaco.MainActivity"
-    android:background="#008000">
+    android:background="#FFFFFF">
 
 
     include layout="@layout/content_main"
@@ -16,78 +16,63 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/sky">
+        android:background="@drawable/sky2">
 
     </RelativeLayout>
 
-    <android.support.design.widget.AppBarLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:theme="@style/AppTheme.AppBarOverlay">
 
-        <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/AppTheme.PopupOverlay"
-            android:backgroundTint="#008000"/>
-
-    </android.support.design.widget.AppBarLayout>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/sky">
+        android:background="@drawable/sky2">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                android:background="@android:color/transparent"/>
+
+        </android.support.design.widget.AppBarLayout>
+
 
         <Button
             android:text="Español"
-            android:textColor="#000000"
-            android:layout_width="100dp"
+            android:textColor="#3379eb"
+            android:layout_width="wrap_content"
             android:layout_height="60dp"
             android:id="@+id/buttonEspanol"
             app:layout_anchorGravity="center_vertical|center_horizontal"
             android:layout_gravity="center_vertical|left"
-            android:layout_marginLeft="82dp"
             android:onClick="onButtonClick"
             android:elevation="0dp"
             style="@android:style/Widget.Holo.Button"
             android:background="@drawable/button_pressed"
-            android:layout_marginStart="46dp"
-            android:layout_alignBottom="@+id/buttonPolski"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/SuperMemoPolaco"
+            android:layout_alignEnd="@+id/SuperMemoPolaco"
+            android:layout_marginRight="46dp"
+            android:layout_marginEnd="46dp"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_alignTop="@+id/buttonPolski" />
-
-        <Button
-           android:text="Polski"
-           android:textColor="#000000"
-           android:layout_width="100dp"
-           android:layout_height="60dp"
-           android:id="@+id/buttonPolski"
-           app:layout_anchorGravity="center_vertical|center_horizontal"
-           android:layout_gravity="center_vertical|center_horizontal"
-            android:onClick="onButtonClick"
-           style="@android:style/Widget.Holo.Button"
-            android:background="@drawable/button_pressed"
-            android:layout_marginRight="47dp"
-            android:layout_marginEnd="47dp"
-            android:layout_centerVertical="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
+            android:layout_alignParentStart="true" />
 
         <TextView
             android:text="SuperMemoPolaco"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginLeft="21dp"
-            android:layout_marginStart="21dp"
-            android:layout_marginTop="13dp"
+            android:layout_marginTop="11dp"
+            android:textColor="#FFFFFF"
             android:id="@+id/SuperMemoPolaco"
-            android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/Powered"
+            android:layout_alignStart="@+id/Powered" />
 
         <TextView
             android:text="Powered by ARQONIA"
@@ -96,7 +81,28 @@
             android:id="@+id/Powered"
             android:layout_marginLeft="21dp"
             android:layout_marginStart="21dp"
-            android:layout_marginTop="43dp"/>
+            android:textColor="#FFFFFF"
+            android:layout_below="@+id/SuperMemoPolaco"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+           android:text="Polski"
+           android:textColor="#3379eb"
+           android:layout_width="wrap_content"
+           android:layout_height="60dp"
+           android:id="@+id/buttonPolski"
+           app:layout_anchorGravity="center_vertical|center_horizontal"
+           android:layout_gravity="center_vertical|center_horizontal"
+            android:onClick="onButtonClick"
+           style="@android:style/Widget.Holo.Button"
+            android:background="@drawable/button_pressed"
+            android:layout_marginLeft="22dp"
+            android:layout_marginStart="22dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/Powered"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
 
     </RelativeLayout>
 

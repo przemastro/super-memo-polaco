@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.content.Intent;
@@ -35,6 +36,7 @@ public class Espanol2 extends Activity {
     Button mybtnComprobar;
     TextView textViewSortear;
     TextView textViewComprobar;
+    TextView textViewNivel;
     EditText editTextEntrada;
     DatabaseHelper myDb;
     Espanol esp;
@@ -61,8 +63,17 @@ public class Espanol2 extends Activity {
         textViewComprobar = (TextView) findViewById(R.id.textViewComprobar);
         editTextEntrada = (EditText) findViewById(R.id.editTextEntrada);
 
-        textViewNumero = (TextView) findViewById(R.id.textViewNumero);
-        textViewNumero.setText(myDb.getEspanolNumero());
+        textViewNivel = (TextView) findViewById(R.id.textViewNivel);
+        textViewNivel.setText(esp.ID2);
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
 
         esp = new Espanol();
 
@@ -72,6 +83,8 @@ public class Espanol2 extends Activity {
             public void onClick(View v) {
                 mybtnComprobar.setEnabled(true);
                 textViewSortear.setText(drawEspanol(esp.getIdValue()));
+                mybtnSortear.setVisibility(View.GONE);
+                mybtnComprobar.setVisibility(View.VISIBLE);
             }
         });
 
@@ -80,6 +93,8 @@ public class Espanol2 extends Activity {
 
             @Override
             public void onClick(View v) {
+                mybtnSortear.setVisibility(View.VISIBLE);
+                mybtnComprobar.setVisibility(View.GONE);
                 mybtnComprobar.setEnabled(false);
                 textViewComprobar.setText(drawPolski(esp.getIdValue()));
                 String name = editTextEntrada.getText().toString();
@@ -99,12 +114,17 @@ public class Espanol2 extends Activity {
                     }
                     myDb.updateEspanolData(textViewComprobar.getText().toString(),Integer.toString(value));
                     value = Integer.parseInt(myDb.getEspanolPoints(textViewComprobar.getText().toString()));
-                    Toast myToast = Toast.makeText(getApplicationContext(), "Non correctamente! "+Integer.toString(value)+"p", Toast.LENGTH_LONG);
+                    Toast myToast = Toast.makeText(getApplicationContext(), "Incorrectamente! "+Integer.toString(value)+"p", Toast.LENGTH_LONG);
                     myToast.show();
                 }
             }
         });
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+
+    @Override
+    public void onBackPressed() {
+        finish();
     }
 
     public String drawEspanol(String value) {
