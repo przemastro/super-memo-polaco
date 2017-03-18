@@ -24,7 +24,7 @@ public class Polski extends Activity {
         setContentView(R.layout.polski);
         myDb = new DatabaseHelper(this);
         textViewNumer = (TextView) findViewById(R.id.textViewNumer);
-        textViewNumer.setText(myDb.getEspanolNumero());
+        textViewNumer.setText(myDb.getPolskiNumer());
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 
