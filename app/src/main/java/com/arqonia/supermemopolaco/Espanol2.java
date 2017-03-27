@@ -77,6 +77,7 @@ public class Espanol2 extends Activity {
 
         esp = new Espanol();
 
+
         mybtnSortear.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -117,6 +118,7 @@ public class Espanol2 extends Activity {
                     Toast myToast = Toast.makeText(getApplicationContext(), "Incorrectamente! "+Integer.toString(value)+"p", Toast.LENGTH_LONG);
                     myToast.show();
                 }
+                editTextEntrada.getText().clear();
             }
         });
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();

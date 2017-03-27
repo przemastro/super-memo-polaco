@@ -70,7 +70,6 @@
 
         <TextView
             android:text=""
-            android:layout_width="150dp"
             android:layout_height="60dp"
             android:id="@+id/textViewSortear"
             tools:text=""
@@ -80,7 +79,8 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
             android:layout_centerVertical="true"
             android:layout_alignLeft="@+id/textViewComprobar"
-            android:layout_alignStart="@+id/textViewComprobar" />
+            android:layout_alignStart="@+id/textViewComprobar"
+            android:layout_width="170dp" />
 
         <TextView
             android:text="Sortea una palabra y escriba una palabra para comparación!"
@@ -128,7 +128,6 @@
 
         <TextView
             android:text=""
-            android:layout_width="150dp"
             android:layout_height="60dp"
             android:id="@+id/textViewComprobar"
             tools:text=""
@@ -137,7 +136,8 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
             android:layout_marginTop="37dp"
             android:layout_below="@+id/editTextEntrada"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:layout_width="170dp" />
 
         <TextView
             android:text="El nivel"

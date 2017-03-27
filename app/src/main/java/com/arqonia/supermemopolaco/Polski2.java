@@ -107,6 +107,7 @@ public class Polski2 extends Activity {
                     Toast myToast = Toast.makeText(getApplicationContext(), "Niepoprawnie! "+Integer.toString(value)+"p", Toast.LENGTH_LONG);
                     myToast.show();
                 }
+                editTextWprowadz.getText().clear();
             }
         });
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();

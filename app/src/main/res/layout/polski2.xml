@@ -94,7 +94,6 @@
 
         <TextView
             android:text=""
-            android:layout_width="150dp"
             android:layout_height="60dp"
             android:id="@+id/textViewWylosuj"
             tools:text=""
@@ -104,7 +103,8 @@
             android:layout_marginTop="88dp"
             android:layout_below="@+id/textView2"
             android:layout_alignLeft="@+id/textViewPorownaj"
-            android:layout_alignStart="@+id/textViewPorownaj" />
+            android:layout_alignStart="@+id/textViewPorownaj"
+            android:layout_width="170dp" />
 
         <TextView
             android:text="Poziom"
@@ -122,7 +122,6 @@
 
         <TextView
             android:text=""
-            android:layout_width="150dp"
             android:layout_height="60dp"
             android:id="@+id/textViewPorownaj"
             tools:text=""
@@ -131,7 +130,8 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
             android:layout_below="@+id/editTextWprowadz"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="28dp" />
+            android:layout_marginTop="28dp"
+            android:layout_width="170dp" />
 
         <EditText
             android:layout_width="wrap_content"

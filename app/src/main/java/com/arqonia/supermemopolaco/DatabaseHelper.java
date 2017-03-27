@@ -515,7 +515,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 db.execSQL("insert into " + TABLE_NAME +" values ('359','el hervidor','czanik','2','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('360','el frigorifico','lodówka','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('361','congelar','zamrozić','2','0','0');");
-                db.execSQL("insert into " + TABLE_NAME +" values ('362','cocinar','gotowanie','1','0','0');");
+                db.execSQL("insert into " + TABLE_NAME +" values ('362','cocinar','gotować','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('363','pelar','obierać','4','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('364','cortar','kroić','3','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('365','remover','mieszać','2','0','0');");
@@ -605,7 +605,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 db.execSQL("insert into " + TABLE_NAME +" values ('449','las finanzas','finanse','2','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('450','las acciones','akcje','4','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('451','el cliente','klient','4','0','0');");
-                db.execSQL("insert into " + TABLE_NAME +" values ('452','correo','poczta','1','0','0');");
+                db.execSQL("insert into " + TABLE_NAME +" values ('452','el correo','poczta','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('453','el sello','znaczek','2','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('454','el cartero','listonosz','2','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('455','el sobre','koperta','3','0','0');");
@@ -1680,7 +1680,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 db.execSQL("insert into " + TABLE_NAME +" values ('1523','diez','dziesięć','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1524','once','jedenaście','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1525','doce','dwanaście','1','0','0');");
-                db.execSQL("insert into " + TABLE_NAME +" values ('1526','trece','trzynascie','1','0','0');");
+                db.execSQL("insert into " + TABLE_NAME +" values ('1526','trece','trzynaście','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1527','catorce','czternaście','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1528','quince','piętnaście','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1529','dieciséis','szesnaście','1','0','0');");
@@ -1692,7 +1692,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 db.execSQL("insert into " + TABLE_NAME +" values ('1535','veintidós','dwadzieścia dwa','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1536','treinta','trzydzieści','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1537','cuarenta','czterdzieści','1','0','0');");
-                db.execSQL("insert into " + TABLE_NAME +" values ('1538','cincuenta','pięcdziesiąt','1','0','0');");
+                db.execSQL("insert into " + TABLE_NAME +" values ('1538','cincuenta','pięćdziesiąt','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1539','sesenta','sześćdziesiąt','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1540','setenta','siedemdziesiąt','1','0','0');");
                 db.execSQL("insert into " + TABLE_NAME +" values ('1541','ochenta','osiemdziesiąt','1','0','0');");
