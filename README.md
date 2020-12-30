@@ -3,6 +3,8 @@ Java + SQLite
 
 I wanted to learn spanish that is why I created this application. It is a kind of super memo app with spanish-polish vocabulary.
 
+![Dashboard](https://github.com/przemastro/super-memo-polaco/blob/master/smp.png)
+
 Classes:
 
     1. DatabaseHelper - to handle SQLite DB and db methods.
