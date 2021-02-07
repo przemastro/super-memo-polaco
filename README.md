@@ -26,5 +26,3 @@ Simple super memo app polish-spanish
 
 Run gradle build. Install on your device or emulator.
 
-# Usage
-
