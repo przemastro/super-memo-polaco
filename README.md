@@ -1,31 +1,30 @@
 # SuperMemoPolaco
-Java + SQLite
-
-I wanted to learn spanish that is why I created this application. It is a kind of super memo app with spanish-polish vocabulary.
+[![GitHub issues](https://img.shields.io/github/issues/przemastro/super-memo-polaco)](https://github.com/przemastro/super-memo-polaco/issues)
+[![GitHub forks](https://img.shields.io/github/forks/przemastro/super-memo-polaco)](https://github.com/przemastro/super-memo-polaco/network)
+[![GitHub stars](https://img.shields.io/github/stars/przemastro/super-memo-polaco)](https://github.com/przemastro/super-memo-polaco/stargazers)
+[![Java version](https://img.shields.io/badge/Java-1.8-%23b07219)](https://github.com/przemastro/super-memo-polaco)
 
 ![Dashboard](https://github.com/przemastro/super-memo-polaco/blob/master/smp.png)
 
-Classes:
+# Features
+Simple super memo app polish-spanish
 
-    1. DatabaseHelper - to handle SQLite DB and db methods.
-    2. MainActivity - to handle main page activities.
-    3. Espanol and Espanol2 - 2 screens with "spanish" activities. 
-    4. Polish and Polish2 - 2 screens with "polish" activities.
-    
-Layout:
+1. Polish and Spanish words
+2. User can select difficulty level and draw word
+3. 1000 words database
+4. 6 groups of spanish/polish words.
+5 levels of words familiarity. Every time user guesses word, the word's counter increases by 1 and vice versa when user does not guess the word, counter decreases by 1. 
+6. The higher counter, the smaller probability  word will by drawn. 
+7. Firstly 15 words are drawn from specified group of words, from 5 levels of of words familiarity. 5 words for level 0, 4 words for level 1 etc.
+8. From the group of 15 words 1 word is drawn.
 
-    1. activity_main.xml - main page design.
-    2. espanol.xml and espanol2.xml - 2 screens with "spanish" design. 
-    3. polish.xml and polish2.xml - 2 screens with "polish" design.
-    
-    
-Algorithm is simple but powerful:     
+# Installation
 
-    1. 6 groups of spanish/polish words.
-    2. 5 levels of words familiarity. Every time user guesses word, the word's counter increases by 1 and vice versa when user does not guess the word, counter decreases by 1. 
-    3. The higher counter, the smaller probability  word will by drawn. 
-    4. Firstly 15 words are drawn from specified group of words, from 5 levels of of words familiarity. 5 words for level 0, 4 words for level 1 etc.
-    5. From the group of 15 words 1 word is drawn.
-    
-    
-I still learn spanish :)    
+1. Open repo in your favourite IDE (I use Intellij because of built-in Maven) and set Project SDK to "java version 1.8.0_*"
+
+# Run
+
+Run gradle build. Install on your device or emulator.
+
+# Usage
+
